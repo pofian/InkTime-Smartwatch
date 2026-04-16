@@ -1,8 +1,4 @@
-# InkTime-Smartwatch
- An affordable, open-source smartwatch designed for low power consumption.
-
-
-# InkTime - nRF52840 E-Paper Smartwatch
+# InkTime - Smartwatch
 
 InkTime is an open-source, ultra-low-power smartwatch built around the Nordic nRF52840 SoC. It features a 1.54" E-Paper display, integrated battery management, and environmental/motion sensors, all optimized for extended battery life and BLE connectivity.
 
